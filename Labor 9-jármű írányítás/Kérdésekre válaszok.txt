@@ -1,0 +1,8 @@
+
+::::::::::::::::::::::::::::::::::::::::::::::::::: Kérdésekre Válaszok ::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+1. Kezdetben az állandósul állapotbeli hiba 0.027, de ha a tömegét a testnek megnöveljük 10%-al akkor ez az érték duplájára növekszik éspedig 0,054-re.
+
+2. A b beavatkozó paraméter  10%-os növelése nagymértékben javítja a szabályzás minőségi jellemzőit, mivel megfigyelésem alapján a kezdetleges tömeg esetében a b paraméter 10%-os növelése teljesen kiküszöbölte az állandósúlt állapotbeli hibát.  
+
+3. Abban az esetben, ha kellő hozzáértéssel meg tudunk építeni egy olyan szabályozót, amelyben az integráló tag és az előrecsatoló ág nagy hatásfokkal ki tudja küszöbölni az egymás által generált hibákat. Mivel van néhány ismert tulajdonság amelyet tudunk ezekről, ezért csak indokolt esetben használhatjuk együtt ezeket az elemeket.   

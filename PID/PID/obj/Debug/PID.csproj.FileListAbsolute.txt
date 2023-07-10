@@ -1,0 +1,10 @@
+C:\Users\pusok\OneDrive\Desktop\Iranytech\PID\PID\bin\Debug\PID.exe.config
+C:\Users\pusok\OneDrive\Desktop\Iranytech\PID\PID\bin\Debug\PID.exe
+C:\Users\pusok\OneDrive\Desktop\Iranytech\PID\PID\bin\Debug\PID.pdb
+C:\Users\pusok\OneDrive\Desktop\Iranytech\PID\PID\obj\Debug\PID.csprojAssemblyReference.cache
+C:\Users\pusok\OneDrive\Desktop\Iranytech\PID\PID\obj\Debug\PID.PID_Controller.resources
+C:\Users\pusok\OneDrive\Desktop\Iranytech\PID\PID\obj\Debug\PID.Properties.Resources.resources
+C:\Users\pusok\OneDrive\Desktop\Iranytech\PID\PID\obj\Debug\PID.csproj.GenerateResource.cache
+C:\Users\pusok\OneDrive\Desktop\Iranytech\PID\PID\obj\Debug\PID.csproj.CoreCompileInputs.cache
+C:\Users\pusok\OneDrive\Desktop\Iranytech\PID\PID\obj\Debug\PID.exe
+C:\Users\pusok\OneDrive\Desktop\Iranytech\PID\PID\obj\Debug\PID.pdb

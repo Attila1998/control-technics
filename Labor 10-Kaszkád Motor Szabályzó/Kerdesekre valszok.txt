@@ -1,0 +1,7 @@
+Kérdésekre válaszok:
+
+1. Abban az esetben ha a Ki = 0, a Motoráram, a Szögsebesség és a Szögpozíció túllövése megnövekszik és mindhárom érték hosszabb idő után áll be a stabil értékre. 
+
+2. A rendszer válaszát a Tau_ext/Ai beavatkozójel kibővítése nélkül -1 állandósult állapotbeli hiba jellemzi.
+
+3. Önhangoló PID szabályzót 
