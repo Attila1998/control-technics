@@ -1,0 +1,39 @@
+ 	1. Kérdés
+
+Ezzel a ki kódrészlettel tudunk alkalmazni a feladat megoldásához időzítőt. 
+
+Timer t = Timer();
+
+t.setInterval([&]() {
+    cout << "Egy másodperc mulva indítja az idozitot" << endl;
+}, 1000); 
+
+t.setTimeout([&]() {
+    cout << "5,2 másodperc mulva pedig leállítja" << endl;
+    t.stop();
+}, 5200);
+.......................................................................................
+	2. Kérdés
+
+Ezt úgy tudnánk megvalósítani, hogy létrehozunk egy 100 elemű tömböt
+amelyen keresztül egy while ciklussal megyünk végig, ennek feltétele hogy az 'i==100'. A tömbnek az 'i'-dik pozíciójára tesszük be az elemeket de előtte egy feltételben megnézzük, hogy az i egyenlő-e 99 -el, ha ez teljesül, akkor egy for ciklussal végigmegyünk a tömbön és meghatározzuk, hogy t[j] = t[j+1];. Igy a tömbünk csak 98 elemü lesz és ebben az esetben a tömb végére betesszük a kovetkező elemet.  
+
+int i = 1;
+while(i == 100)
+{
+   if(i==99)
+     {
+	for(int j = 0; j<100; j++)
+	 {
+           t[j] = t[j+1];
+	 }
+	i--;  
+     }
+t[i] = jel;
+
+i++;
+}
+...........................................................................................
+	3. Kérdés
+
+Ezt már nem tudom, értem én, hogy az indexből lehet ezt változtatni, de nem tudom, hogy hogyan.
