@@ -1,0 +1,8 @@
+1.
+
+
+2. Hasonlítsa össze a Ziegler–Nichols-módszerrel hangolt szabályozási
+rendszer válaszát az Oppelt-módszerrel hangolt szabályozási rend-
+szer válaszával.
+
+Az Oppelt módszernél sokkal nagyobb túllövést figyelhetünk meg a PID szabályzó esetében, míg az önhangóló szabályozó sokkal optimálisabb eredményt nyujt. 
